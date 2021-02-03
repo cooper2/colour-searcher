@@ -2,6 +2,7 @@
 Colour searcher made with React table
 
 code in src/App.js
+
 node modules may need to be installed, please contact me if any issues
 
 search currently only works with hex values!
